@@ -34,6 +34,7 @@ My graduate work bridged neuroscience, rehabilitation, and immersive UI design, 
   - 🎯 **Crosshair Placement Score** angular error-based aim evaluation
   - 🕹️ **General professional analysis for the benefit of any team
 - Supports Tableau visualizations, seasonal trend analysis, and JSON exports for frontend integration
+[![Visual's Preview](./case-study-preview.png)](./Full%Event%KPR%vs%ADR.png)
 
 **[For More Information Read The Case Study:](./Counter%Strike%2%Demo%Case%Study.pdf)**
 ### 🧪 **VR + Data Science Explorations**
@@ -53,8 +54,7 @@ My graduate work bridged neuroscience, rehabilitation, and immersive UI design, 
 
 If you’re working in healthcare tech, VR/AR, esports analytics, or are curious about the blend of research, ML, and immersive interfaces — I’d love to connect.
 
-- 🌐 [Portfolio Coming Soon]
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- 📧 conor.nolan.email@example.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/conor-nolan-026ba5195/))
+- 📧 conorjosephin@gmail.com
 
 Thanks for stopping by!
