@@ -25,7 +25,7 @@ My graduate work bridged neuroscience, rehabilitation, and immersive UI design, 
 - Built in Unity with C# and Python analytics
 - Uses real-time force data and participant-traced movement to evaluate wrist function recovery
 - Outputs quantitative metrics (error angles, force profiles, precision curves)
-
+**[For More Information Read The Case Study:](ConorJINolan/Haptic Hand Rehabilitation Assessment System.pdf)**
 ### 🎮 **Counter-Strike 2 Performance Analytics**
 - Full-stack pipeline to parse `.dem` files with [`awpy`](https://github.com/pnxenopoulos/awpy) and insert into a structured PostgreSQL schema
 - Custom metrics developed:
@@ -33,7 +33,7 @@ My graduate work bridged neuroscience, rehabilitation, and immersive UI design, 
   - 🎯 **Crosshair Placement Score** angular error-based aim evaluation
   - 🕹️ **General professional analysis for the benefit of any team
 - Supports Tableau visualizations, seasonal trend analysis, and JSON exports for frontend integration
-
+**[For More Information Read The Case Study:](ConorJINolan/Counter Strike 2 Demo Case Study.pdf)**
 ### 🧪 **VR + Data Science Explorations**
 - Concepts for using VR in cognitive assessment and recovery
 - Exploratory projects merging XR and machine learning for real-world therapeutic outcomes
