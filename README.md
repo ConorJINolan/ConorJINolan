@@ -60,7 +60,7 @@ My graduate work bridged neuroscience, rehabilitation, and immersive UI design, 
 
 If you’re working in healthcare tech, VR/AR, esports analytics, or are curious about the blend of research, ML, and immersive interfaces — I’d love to connect.
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/conor-nolan-026ba5195/)
+- 💼 Conor Nolan On LinkedIn (https://www.linkedin.com/in/conor-nolan-026ba5195/)
 - 📧 conorjosephin@gmail.com
 
 Thanks for stopping by!
