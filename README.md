@@ -25,6 +25,9 @@ My graduate work bridged neuroscience, rehabilitation, and immersive UI design, 
 - Built in Unity with C# and Python analytics
 - Uses real-time force data and participant-traced movement to evaluate wrist function recovery
 - Outputs quantitative metrics (error angles, force profiles, precision curves)
+[![Quad Tracing](./Quad_Tracing.png)](./Quad_Tracing.png)
+
+[![Effective Resistive Force Levels](./Effective%20Resistive%20Force%20Levels.png)](./Effective%20Resistive%20Force%20Levels.png)
 
 **[For More Information Read The Case Study:](./Haptic%20Hand%20Rehabilitation%20Assessment%20System.pdf)**
 ### 🎮 **Counter-Strike 2 Performance Analytics**
