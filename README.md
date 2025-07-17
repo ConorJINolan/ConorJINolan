@@ -36,6 +36,9 @@ My graduate work bridged neuroscience, rehabilitation, and immersive UI design, 
 - Supports Tableau visualizations, seasonal trend analysis, and JSON exports for frontend integration
 
 [![Visual's Preview](./Full%20Event%20KPR%20vs%20ADR.png)](./Full%20Event%20KPR%20vs%20ADR.png)
+[![Visual's Preview](./Austin%20Major%20ADR%20VS%20Bullet%20Efficiency.png)](./Austin%20Major%20ADR%20VS%20Bullet%20Efficiency.png)
+[![Visual's Preview – IGL Full Event KPR vs ADR](./IGL_FULL_EVENT_KPR_VS_ADR.png)](./IGL_FULL_EVENT_KPR_VS_ADR.png)
+[![Visual's Preview – Playoff AWPers Full Event](./PLAYOFF_AWPERS_FULL_EVENT.png)](./PLAYOFF_AWPERS_FULL_EVENT.png)
 
 **[For More Information Read The Case Study:](./Counter%Strike%2%Demo%Case%Study.pdf)**
 ### 🧪 **VR + Data Science Explorations**
