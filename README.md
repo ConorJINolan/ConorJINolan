@@ -26,7 +26,7 @@ My graduate work bridged neuroscience, rehabilitation, and immersive UI design, 
 - Uses real-time force data and participant-traced movement to evaluate wrist function recovery
 - Outputs quantitative metrics (error angles, force profiles, precision curves)
 
-  **[For More Information Read The Case Study:](./Haptic%20Hand%20Rehabilitation%20Assessment%20System.pdf)**
+**[For More Information Read The Case Study:](./Haptic%20Hand%20Rehabilitation%20Assessment%20System.pdf)**
 ### 🎮 **Counter-Strike 2 Performance Analytics**
 - Full-stack pipeline to parse `.dem` files with [`awpy`](https://github.com/pnxenopoulos/awpy) and insert into a structured PostgreSQL schema
 - Custom metrics developed:
