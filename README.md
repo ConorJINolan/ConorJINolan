@@ -34,7 +34,7 @@ My graduate work bridged neuroscience, rehabilitation, and immersive UI design, 
   - 🎯 **Crosshair Placement Score** angular error-based aim evaluation
   - 🕹️ **General professional analysis for the benefit of any team
 - Supports Tableau visualizations, seasonal trend analysis, and JSON exports for frontend integration
-[![Visual's Preview](./case-study-preview.png)](./Full%Event%KPR%vs%ADR.png)
+[![Visual's Preview](./case-study-preview.png)](./Full%20Event%20KPR%vs%20ADR.png)
 
 **[For More Information Read The Case Study:](./Counter%Strike%2%Demo%Case%Study.pdf)**
 ### 🧪 **VR + Data Science Explorations**
